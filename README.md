@@ -5,8 +5,8 @@ A modern Android weather app built with Jetpack Compose and the OpenWeatherMap A
 ## 📸 Screenshots
 
 | Home Screen | Weather Result |
-|---|---|
-| <img src="screenshots/screen_home.png" width="200"/> | <img src="screenshots/screen_result.png" width="200"/> |
+|-------------|----------------|
+| <img width="322" height="678" alt="image" src="https://github.com/user-attachments/assets/0add589d-194b-423e-8db3-b8be0794cc3a" /> | <img width="322" height="678" alt="image" src="https://github.com/user-attachments/assets/43a0aff4-c279-4805-a083-2cfa04e90bf4" /> |
 
 ## ✨ Features
 
